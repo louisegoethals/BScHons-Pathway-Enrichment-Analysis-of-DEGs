@@ -1,2 +1,7 @@
 # BScHons-Pathway-Enrichment-Analysis-of-DEGs
-Pathway enrichment analysis code for partial fulfillment of Gene Ontology and Pathway Enrichment Analysis of Tuberculosis Relapse versus Cured for Shortened or Standard Treatment
+
+This folder contains four scripts: data_manager_gh, main_script_gh, pea_enrichr_gh, pea_investigate_gh.
+At the time of submission, the data used in this pipeline was not yet published. It is thus not included.
+
+DATA MANAGER:
+
