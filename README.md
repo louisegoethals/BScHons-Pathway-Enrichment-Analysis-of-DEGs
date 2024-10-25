@@ -14,4 +14,4 @@ Pathway enrichment analysis function. Two plots are outputted for a particular t
 Set databases for analysis here. Set the output path (where plots are saved).
 
 ##PEA INVESTIGATE:
-After conducting pathway enrichment analysis, extract the eligible pathways (those that meet the p-value). Then extract the DEGs associated with those pathways.
+After conducting pathway enrichment analysis, extract the eligible pathways (those that met the p-value). Then extract the DEGs associated with those pathways.
