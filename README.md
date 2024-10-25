@@ -4,10 +4,10 @@ Four scripts are included: main_script_gh, data_manager_gh, pea_enrichr_gh, pea_
 At the time of submission, the data used in this pipeline was not yet published. It is thus not included.
 
 ##MAIN SCRIPT:
-The analysis is conducted from this script. The other scripts are imported and the p-value variable is set.
+Analysis is conducted from this script. 
 
 ##DATA MANAGER:
-Data for analysis is imported in this script. Format: csv files.
+Data for analysis is imported into the workspace from this script. Format: csv files.
 
 ##PEA ENRICHR:
 Pathway enrichment analysis function. Two plots are outputted for a particular timepoint: upregulated pathways and downregulated pathways.
